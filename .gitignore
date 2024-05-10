@@ -6,3 +6,5 @@
 .idea/vcs.xml
 utils/__pycache__/utils.cpython-311.pyc
 web_pages/__pycache__/men_page.cpython-311.pyc
+web_pages/__pycache__/product_url_crawl.cpython-311.pyc
+web_pages/__pycache__/product_details_page.cpython-311.pyc
