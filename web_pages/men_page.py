@@ -17,4 +17,4 @@ class MenPage:
             product_details_page = ProductDetailsPage(self.driver)
             data_output = product_details_page.get_formatted_data()
             data.append(data_output)
-        utils.write_dict_to_csv(data, 'output.csv')
+        utils.write_dict_to_csv(data, 'product_details_output.csv')
